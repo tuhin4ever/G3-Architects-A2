@@ -410,7 +410,7 @@ footer p {
     }
 
     .text-card {
-        width: 120%;
+        width: 100%;
     }
 
     .card-title {
@@ -479,7 +479,9 @@ footer p {
         align-items: center;
         gap: 24px;
     }
-
+    footer p {
+        padding-top: 14px;
+    }
     footer {
         width: 100%;
         margin: 0;

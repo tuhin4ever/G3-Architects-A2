@@ -431,8 +431,8 @@ footer p {
     }
 
     .btn-secondary {
-        left: 50px;
-        top: 3266px;
+        left: 40px;
+        top: 3320px;
         width: 130px;
         height: 60px;
     }
@@ -448,7 +448,7 @@ footer p {
     }
 
     .facts {
-        padding-top: 475px;
+        padding-top: 512px;
     }
 
     .some-facts {
@@ -463,6 +463,9 @@ footer p {
         flex-direction: column;
         align-items: center;
         gap: 17px;
+    }
+    .our-title h1 {
+        text-align: center;
     }
     .our-title p {
         width: 100%;
